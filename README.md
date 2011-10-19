@@ -6,11 +6,11 @@ where the edited files are stored and can be reused.
 
 # Installation
 
-  gem install pry-buffers
+    gem install pry-buffers
 
 # Usage
 
-pry-buffers needs a HOME environment variable to be defined in order to
+WARNING: pry-buffers needs a HOME environment variable to be defined in order to
 work properly.
 
     pry(main)> buf -h
